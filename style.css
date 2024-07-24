@@ -1,0 +1,16 @@
+.headings {
+    background-color: rgb(104, 168, 252);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.para {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;
+    color: black;
+    font-size: 12px;
+    text-align: justify;
+}
